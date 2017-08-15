@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 张强
-email: inteli_zq@163.com
+title: 李振男
+email: nandaye0126@mywiz.cn
 description: Welcome to my blog
-url: "http://arch-long.cn"
+url: "https://zhennanlee.github.io"
 
 # 头像里面的标题
-avatarTitle: archLong
+avatarTitle: Carlos
 # 头像里面的描述
 avatarDesc: Spark / Scala
 
