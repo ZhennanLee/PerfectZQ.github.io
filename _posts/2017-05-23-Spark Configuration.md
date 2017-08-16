@@ -1,6 +1,6 @@
 ---
 layout: post
-title:【转】 Spark Configuration
+title:【转】Spark Configuration
 tag: Spark
 ---
 
