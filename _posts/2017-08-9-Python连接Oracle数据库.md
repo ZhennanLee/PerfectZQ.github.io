@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]Python连接Oracle数据库
+title: 【转】Python连接Oracle数据库
 tag: Python
 ---
 ### 下载 instant_oracle
