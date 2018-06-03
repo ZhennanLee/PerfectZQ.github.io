@@ -10,7 +10,7 @@ tag: MongoDB
 
 
 #### Scala版本
-``` scala
+
 import com.mongodb.DBObject
 import com.mongodb.casbah.{MongoClient, MongoCollection}
 import com.mongodb.util.JSON
