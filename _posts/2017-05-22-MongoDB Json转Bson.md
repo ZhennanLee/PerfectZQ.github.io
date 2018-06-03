@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【转】MongoDB Json转Bson
+title: MongoDB Json转Bson
 tag: MongoDB
 ---
 
