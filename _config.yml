@@ -16,12 +16,12 @@
 title: 李振男
 email: nandaye0126@mywiz.cn
 description: Welcome to my blog
-url: "https://zhennanlee.github.io"
+url: "Akihi-i.cn"
 
 # 头像里面的标题
 avatarTitle: Carlos
 # 头像里面的描述
-avatarDesc: Java / 胖子
+avatarDesc: Java / Akihi
 
 
 
@@ -46,7 +46,7 @@ nav:
 
 
 twitter_username: None
-github_username:  PerfectZQ
+github_username:  zhennanLee
 
 # Build settings
 markdown: kramdown
