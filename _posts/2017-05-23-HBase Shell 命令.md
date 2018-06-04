@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【转】HBase Shell 命令
+title: HBase Shell 命令
 tag: HBase
 ---
 
