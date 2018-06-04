@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【转】导入dmp文件
+title: 导入dmp文件
 tag: Oracle
 ---
 
