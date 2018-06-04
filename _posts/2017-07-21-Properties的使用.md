@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【转】Properties的使用
+title: Properties的使用
 tag: Java
 ---
 
