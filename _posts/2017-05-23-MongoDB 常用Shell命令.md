@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【转】MongoDB 常用Shell命令
+title: MongoDB 常用Shell命令
 tag: MongoDB
 ---
 ## MongoDB 常用Shell命令
